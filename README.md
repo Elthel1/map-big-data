@@ -1,8 +1,8 @@
-# map-big-data
+# Carte des humains ou carte des salutations
 
 ## Pour lancer le projet depuis un linux 
 
-### Prerequis :
+### Prérequis :
 avoir Node.js et npm
 
 ### Pour lancer le serveur :
@@ -19,7 +19,7 @@ node app.js
 
 
 ## Pour voire le projet
-
+(N'oubliez pas de lancer le serveur)
 ### Consulter le serveur :
 Dans un un navigateur aller à l'adresse : [http://localhost:3000/](http://localhost:3000/)
 ### Consulter la carte des humains :
