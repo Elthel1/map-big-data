@@ -3,10 +3,10 @@
 ## Pour lancer le projet depuis un linux 
 
 ### Prérequis :
-avoir Node.js et npm
+Avoir Node.js et npm
 
 ### Pour lancer le serveur :
-aller dans le dossier app
+Aller dans le dossier app
 ```
 cd map-big-data/app/
 ```
